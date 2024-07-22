@@ -2,9 +2,6 @@
   color-scheme: only light;
 }
 
-// bg color is also needed in html in order to
-// block body's background propagation
-// see: https://stackoverflow.com/a/61265706
 html,
 body {
   background-color: rgb(17, 21, 23);
