@@ -110,14 +110,4 @@ img {
   margin: 0 auto;
 }
 
-a:link {
-  color: rgb(51, 144, 253);
-}
-
-a:visited {
-  color: rgb(51, 144, 253);
-}
-
-a:hover {
-  color: rgb(51, 144, 253);
-}
+a, a:link, a:visited, a:visited { color: rgb(51, 144, 253); }
