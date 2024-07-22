@@ -18,9 +18,3 @@ entries:
         url: https://dannyphamv.com/bachelors
       - title: associate's degree
         url: https://dannyphamv.com/associates
-
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
