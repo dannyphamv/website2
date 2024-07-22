@@ -2,35 +2,23 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: find me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+      - title: email
+        url: https://dannyphamv.com/contact
+      - title: linkedin
+        url: https://www.linkedin.com/in/dannyphamv/
+      - title: github
+        url: http://github.com/dannyphamv/
+  - title: credentials
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
+      - title: pharmacy assistant license
+        url: https://dannyphamv.com/assistant
+      - title: bachelor's degree
+        url: https://dannyphamv.com/bachelors
+      - title: associate's degree
+        url: https://dannyphamv.com/associates
+
           - title: example page
             url: about
   - title: PRO TIP
