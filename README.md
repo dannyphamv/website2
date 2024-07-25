@@ -1,7 +1,6 @@
 - [riggraz/no-style-please](https://github.com/riggraz/no-style-please) Jekyll theme
 - [Formspree](https://formspree.io) contact form
 - [Adobe](https://developer.adobe.com/document-services/apis/pdf-embed/) PDF Embed API
-- Photo by <a href="https://unsplash.com/@victoriabcphotographer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christina Victoria Craft</a> on <a href="https://unsplash.com/photos/orange-and-white-medication-pill-ZHys6xN7sUE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 MIT License
 
